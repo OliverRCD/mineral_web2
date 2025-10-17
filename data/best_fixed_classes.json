@@ -1,0 +1,3210 @@
+{
+  "0": {
+    "en": "abhurit",
+    "zh": "阿布里特"
+  },
+  "1": {
+    "en": "abkhazite",
+    "zh": "阿布哈兹石"
+  },
+  "2": {
+    "en": "acanthite",
+    "zh": "硫银矿"
+  },
+  "3": {
+    "en": "acanthite synthetic",
+    "zh": "合成硫银矿"
+  },
+  "4": {
+    "en": "acetamide",
+    "zh": "乙酰胺"
+  },
+  "5": {
+    "en": "actinolite",
+    "zh": "阳起石"
+  },
+  "6": {
+    "en": "actinolite rock",
+    "zh": "阳起石岩"
+  },
+  "7": {
+    "en": "actinolite schist",
+    "zh": "阳起石片岩"
+  },
+  "8": {
+    "en": "actinolite-asbestos",
+    "zh": "阳起石石棉"
+  },
+  "9": {
+    "en": "adamin",
+    "zh": "水砷锌矿"
+  },
+  "10": {
+    "en": "adular",
+    "zh": "冰长石"
+  },
+  "11": {
+    "en": "aegirin-augit",
+    "zh": "霓辉石"
+  },
+  "12": {
+    "en": "aegirine",
+    "zh": "霓石"
+  },
+  "13": {
+    "en": "aegirine augite",
+    "zh": "霓辉石"
+  },
+  "14": {
+    "en": "afghanite",
+    "zh": "阿富汗石"
+  },
+  "15": {
+    "en": "agalmatolite",
+    "zh": "寿山石"
+  },
+  "16": {
+    "en": "agate",
+    "zh": "玛瑙"
+  },
+  "17": {
+    "en": "agrellite",
+    "zh": "氟硅钙石"
+  },
+  "18": {
+    "en": "agvilarite",
+    "zh": "阿吉拉石"
+  },
+  "19": {
+    "en": "aidyrlit",
+    "zh": "艾迪尔石"
+  },
+  "20": {
+    "en": "aikinit",
+    "zh": "针硫铋铅矿"
+  },
+  "21": {
+    "en": "akatoreitis",
+    "zh": "阿卡托雷石"
+  },
+  "22": {
+    "en": "akmit",
+    "zh": "阿克米石"
+  },
+  "23": {
+    "en": "aktashit",
+    "zh": "阿克塔什石"
+  },
+  "24": {
+    "en": "alabaster",
+    "zh": "雪花石膏"
+  },
+  "25": {
+    "en": "alacranite",
+    "zh": "阿拉克兰石"
+  },
+  "26": {
+    "en": "alaskaite",
+    "zh": "阿拉斯加石"
+  },
+  "27": {
+    "en": "albit-oligoclase",
+    "zh": "钠长石-奥长石"
+  },
+  "28": {
+    "en": "albite",
+    "zh": "钠长石"
+  },
+  "29": {
+    "en": "albitofir",
+    "zh": "钠长斑岩"
+  },
+  "30": {
+    "en": "aleksandrovit",
+    "zh": "亚历山大石"
+  },
+  "31": {
+    "en": "alexandrite",
+    "zh": "变石"
+  },
+  "32": {
+    "en": "alfredopetrovit",
+    "zh": "阿尔弗雷多彼得罗夫石"
+  },
+  "33": {
+    "en": "alkaline hornblende",
+    "zh": "碱性角闪石"
+  },
+  "34": {
+    "en": "allargentum",
+    "zh": "六方锑银矿"
+  },
+  "35": {
+    "en": "alleganite",
+    "zh": "阿勒甘石"
+  },
+  "36": {
+    "en": "allochalcoselite",
+    "zh": "异铜硒矿"
+  },
+  "37": {
+    "en": "alloclasite",
+    "zh": "斜硫锑钴矿"
+  },
+  "38": {
+    "en": "allofan",
+    "zh": "水铝英石"
+  },
+  "39": {
+    "en": "allogeneic breccia",
+    "zh": "异源角砾岩"
+  },
+  "40": {
+    "en": "allogenic breccia with melt",
+    "zh": "含熔体异源角砾岩"
+  },
+  "41": {
+    "en": "alloy",
+    "zh": "合金"
+  },
+  "42": {
+    "en": "alluodite",
+    "zh": "阿卢奥石"
+  },
+  "43": {
+    "en": "almandine",
+    "zh": "铁铝榴石"
+  },
+  "44": {
+    "en": "altaiit",
+    "zh": "阿尔泰石"
+  },
+  "45": {
+    "en": "althausit",
+    "zh": "阿尔陶斯石"
+  },
+  "46": {
+    "en": "alum (artificial product)",
+    "zh": "明矾（人造）"
+  },
+  "47": {
+    "en": "alum-(k)",
+    "zh": "钾明矾"
+  },
+  "48": {
+    "en": "alunite",
+    "zh": "明矾石"
+  },
+  "49": {
+    "en": "alvanite",
+    "zh": "阿尔瓦石"
+  },
+  "50": {
+    "en": "amakinite",
+    "zh": "阿马金石"
+  },
+  "51": {
+    "en": "amazonian stone",
+    "zh": "亚马逊石"
+  },
+  "52": {
+    "en": "amazonite",
+    "zh": "天河石"
+  },
+  "53": {
+    "en": "amber",
+    "zh": "琥珀"
+  },
+  "54": {
+    "en": "amblygonite",
+    "zh": "锂磷铝石"
+  },
+  "55": {
+    "en": "amethyst",
+    "zh": "紫水晶"
+  },
+  "56": {
+    "en": "amethyst geode",
+    "zh": "紫水晶晶洞"
+  },
+  "57": {
+    "en": "amethyst synthetic",
+    "zh": "合成紫水晶"
+  },
+  "58": {
+    "en": "amminite",
+    "zh": "氨石"
+  },
+  "59": {
+    "en": "ammonium chloride",
+    "zh": "氯化铵"
+  },
+  "60": {
+    "en": "amphibole alkaline",
+    "zh": "碱性角闪石"
+  },
+  "61": {
+    "en": "amphibole-asbestos",
+    "zh": "角闪石石棉"
+  },
+  "62": {
+    "en": "amphibolite brecciated",
+    "zh": "角闪岩角砾岩"
+  },
+  "63": {
+    "en": "amphibolite-chlorite. slate",
+    "zh": "角闪石-绿泥石板岩"
+  },
+  "64": {
+    "en": "amphodelite",
+    "zh": "闪石"
+  },
+  "65": {
+    "en": "analcim",
+    "zh": "方沸石"
+  },
+  "66": {
+    "en": "anandit",
+    "zh": "阿南石"
+  },
+  "67": {
+    "en": "anapait",
+    "zh": "阿纳帕石"
+  },
+  "68": {
+    "en": "anataz",
+    "zh": "锐钛矿"
+  },
+  "69": {
+    "en": "anauripiment",
+    "zh": "雌黄"
+  },
+  "70": {
+    "en": "andalusite",
+    "zh": "红柱石"
+  },
+  "71": {
+    "en": "andesite",
+    "zh": "安山岩"
+  },
+  "72": {
+    "en": "andezin",
+    "zh": "中长石"
+  },
+  "73": {
+    "en": "andorite",
+    "zh": "硫锑铅银矿"
+  },
+  "74": {
+    "en": "andradite",
+    "zh": "钙铁榴石"
+  },
+  "75": {
+    "en": "anglesite",
+    "zh": "铅矾"
+  },
+  "76": {
+    "en": "anhydrite",
+    "zh": "硬石膏"
+  },
+  "77": {
+    "en": "ankerite",
+    "zh": "铁白云石"
+  },
+  "78": {
+    "en": "ankinovichit",
+    "zh": "安基诺维奇石"
+  },
+  "79": {
+    "en": "annabergite",
+    "zh": "镍华"
+  },
+  "80": {
+    "en": "anorthite",
+    "zh": "钙长石"
+  },
+  "81": {
+    "en": "anorthoclase",
+    "zh": "歪长石"
+  },
+  "82": {
+    "en": "anthophyllite",
+    "zh": "直闪石"
+  },
+  "83": {
+    "en": "anthophyllite-asbestos",
+    "zh": "直闪石石棉"
+  },
+  "84": {
+    "en": "anthracite",
+    "zh": "无烟煤"
+  },
+  "85": {
+    "en": "anthraxolite",
+    "zh": "碳沥青"
+  },
+  "86": {
+    "en": "antigorite",
+    "zh": "叶蛇纹石"
+  },
+  "87": {
+    "en": "antimonite",
+    "zh": "辉锑矿"
+  },
+  "88": {
+    "en": "antimonpierceite",
+    "zh": "锑皮尔斯矿"
+  },
+  "89": {
+    "en": "antimony",
+    "zh": "锑"
+  },
+  "90": {
+    "en": "antipinite",
+    "zh": "安提平石"
+  },
+  "91": {
+    "en": "antoinite",
+    "zh": "安托石"
+  },
+  "92": {
+    "en": "apatite",
+    "zh": "磷灰石"
+  },
+  "93": {
+    "en": "aplite",
+    "zh": "细晶岩"
+  },
+  "94": {
+    "en": "apophyllite",
+    "zh": "鱼眼石"
+  },
+  "95": {
+    "en": "apuanite",
+    "zh": "阿普安石"
+  },
+  "96": {
+    "en": "aquamarine",
+    "zh": "海蓝宝石"
+  },
+  "97": {
+    "en": "aragonite",
+    "zh": "文石"
+  },
+  "98": {
+    "en": "aramayoite",
+    "zh": "阿拉马约石"
+  },
+  "99": {
+    "en": "arfvedsonite",
+    "zh": "亚铁钠闪石"
+  },
+  "100": {
+    "en": "argentite",
+    "zh": "辉银矿"
+  },
+  "101": {
+    "en": "argentojarosite",
+    "zh": "银铁矾"
+  },
+  "102": {
+    "en": "argentotennantite",
+    "zh": "银砷黝铜矿"
+  },
+  "103": {
+    "en": "armstrongite",
+    "zh": "阿姆斯特朗石"
+  },
+  "104": {
+    "en": "arsenic",
+    "zh": "砷"
+  },
+  "105": {
+    "en": "arsenic native",
+    "zh": "自然砷"
+  },
+  "106": {
+    "en": "arsenic pyrite",
+    "zh": "砷黄铁矿"
+  },
+  "107": {
+    "en": "arsenolite",
+    "zh": "砷华"
+  },
+  "108": {
+    "en": "arsenopyrite",
+    "zh": "毒砂"
+  },
+  "109": {
+    "en": "arsenosiderite",
+    "zh": "砷铁矿"
+  },
+  "110": {
+    "en": "arsenostibit",
+    "zh": "砷锑矿"
+  },
+  "111": {
+    "en": "arsenosulvanite",
+    "zh": "砷硫钒矿"
+  },
+  "112": {
+    "en": "arthritis",
+    "zh": "关节炎石"
+  },
+  "113": {
+    "en": "artificial cadmoselite",
+    "zh": "人造镉硒矿"
+  },
+  "114": {
+    "en": "artificial calcite",
+    "zh": "人造方解石"
+  },
+  "115": {
+    "en": "artificial galena",
+    "zh": "人造方铅矿"
+  },
+  "116": {
+    "en": "artificial sodalite",
+    "zh": "人造方钠石"
+  },
+  "117": {
+    "en": "artinite",
+    "zh": "水碳镁石"
+  },
+  "118": {
+    "en": "aryegilatitis",
+    "zh": "阿耶吉拉石"
+  },
+  "119": {
+    "en": "asbestos amphibole",
+    "zh": "角闪石石棉"
+  },
+  "120": {
+    "en": "asbolan",
+    "zh": "钴土"
+  },
+  "121": {
+    "en": "asphalt",
+    "zh": "沥青"
+  },
+  "122": {
+    "en": "asphaltite",
+    "zh": "沥青岩"
+  },
+  "123": {
+    "en": "astrophyllite",
+    "zh": "星叶石"
+  },
+  "124": {
+    "en": "atakamit",
+    "zh": "阿塔卡马石"
+  },
+  "125": {
+    "en": "au-containing quartz",
+    "zh": "含金石英"
+  },
+  "126": {
+    "en": "augite",
+    "zh": "普通辉石"
+  },
+  "127": {
+    "en": "augite-aegirin",
+    "zh": "普通辉石-霓石"
+  },
+  "128": {
+    "en": "aurichalcite",
+    "zh": "绿铜锌矿"
+  },
+  "129": {
+    "en": "aurorite",
+    "zh": "奥罗拉石"
+  },
+  "130": {
+    "en": "aurostibit",
+    "zh": "金锑矿"
+  },
+  "131": {
+    "en": "aushkul jasper",
+    "zh": "奥什库尔碧玉"
+  },
+  "132": {
+    "en": "axinite-(fe)",
+    "zh": "铁斧石"
+  },
+  "133": {
+    "en": "axinite-(mn)",
+    "zh": "锰斧石"
+  },
+  "134": {
+    "en": "axinitis",
+    "zh": "斧石"
+  },
+  "135": {
+    "en": "azurite",
+    "zh": "蓝铜矿"
+  },
+  "136": {
+    "en": "azurite artificial",
+    "zh": "人造蓝铜矿"
+  },
+  "137": {
+    "en": "ba orthoclase",
+    "zh": "钡正长石"
+  },
+  "138": {
+    "en": "babel quartz",
+    "zh": "巴比伦石英"
+  },
+  "139": {
+    "en": "babingtonite",
+    "zh": "硅铁钙石"
+  },
+  "140": {
+    "en": "badalovit",
+    "zh": "巴达洛夫石"
+  },
+  "141": {
+    "en": "bafertisit",
+    "zh": "钡铁钛石"
+  },
+  "142": {
+    "en": "baikalit",
+    "zh": "贝加尔石"
+  },
+  "143": {
+    "en": "baildonite",
+    "zh": "贝尔顿石"
+  },
+  "144": {
+    "en": "bakerite",
+    "zh": "贝克石"
+  },
+  "145": {
+    "en": "balkanite",
+    "zh": "巴尔干石"
+  },
+  "146": {
+    "en": "balyakinit",
+    "zh": "巴利亚金石"
+  },
+  "147": {
+    "en": "bararyte",
+    "zh": "重晶石"
+  },
+  "148": {
+    "en": "baratovit",
+    "zh": "巴拉托夫石"
+  },
+  "149": {
+    "en": "barberitis",
+    "zh": "巴伯石"
+  },
+  "150": {
+    "en": "barite",
+    "zh": "重晶石"
+  },
+  "151": {
+    "en": "barite nodules",
+    "zh": "重晶石结核"
+  },
+  "152": {
+    "en": "baritocelestine",
+    "zh": "重晶石-天青石"
+  },
+  "153": {
+    "en": "baritolamprophyllite",
+    "zh": "重晶石-闪叶石"
+  },
+  "154": {
+    "en": "barkevikit",
+    "zh": "巴克维石"
+  },
+  "155": {
+    "en": "barringerite",
+    "zh": "巴林杰石"
+  },
+  "156": {
+    "en": "bartonite",
+    "zh": "巴顿石"
+  },
+  "157": {
+    "en": "barylite",
+    "zh": "钡冰长石"
+  },
+  "158": {
+    "en": "baryte",
+    "zh": "重晶石"
+  },
+  "159": {
+    "en": "barytocalcite",
+    "zh": "重晶石方解石"
+  },
+  "160": {
+    "en": "basalt crust",
+    "zh": "玄武岩壳"
+  },
+  "161": {
+    "en": "basalt lava",
+    "zh": "玄武岩熔岩"
+  },
+  "162": {
+    "en": "basalt rope lava",
+    "zh": "玄武岩绳状熔岩"
+  },
+  "163": {
+    "en": "basaltic horny exchange",
+    "zh": "玄武岩角闪交换"
+  },
+  "164": {
+    "en": "basic bismuthite",
+    "zh": "碱式铋矿"
+  },
+  "165": {
+    "en": "bastite",
+    "zh": "绢石"
+  },
+  "166": {
+    "en": "bastnäsite",
+    "zh": "氟碳铈矿"
+  },
+  "167": {
+    "en": "bathysite",
+    "zh": "深海石"
+  },
+  "168": {
+    "en": "baumgauerite",
+    "zh": "鲍姆高尔石"
+  },
+  "169": {
+    "en": "bauxite (gibbsite)",
+    "zh": "铝土矿（三水铝石）"
+  },
+  "170": {
+    "en": "bavenite",
+    "zh": "巴文石"
+  },
+  "171": {
+    "en": "bayerite",
+    "zh": "拜耳石"
+  },
+  "172": {
+    "en": "bazanomelan",
+    "zh": "巴扎诺梅兰石"
+  },
+  "173": {
+    "en": "bazhenovit",
+    "zh": "巴热诺夫石"
+  },
+  "174": {
+    "en": "bazzite",
+    "zh": "巴兹石"
+  },
+  "175": {
+    "en": "be-chalcedony",
+    "zh": "铍玉髓"
+  },
+  "176": {
+    "en": "be-margarite",
+    "zh": "铍珍珠云母"
+  },
+  "177": {
+    "en": "beaverite",
+    "zh": "贝瓦石"
+  },
+  "178": {
+    "en": "bee jasper",
+    "zh": "蜜蜂碧玉"
+  },
+  "179": {
+    "en": "beidellite",
+    "zh": "贝得石"
+  },
+  "180": {
+    "en": "bellingerite",
+    "zh": "贝林杰石"
+  },
+  "181": {
+    "en": "belyankinit",
+    "zh": "别利亚金石"
+  },
+  "182": {
+    "en": "bemmit",
+    "zh": "贝米石"
+  },
+  "183": {
+    "en": "benavidesit",
+    "zh": "贝纳维德斯石"
+  },
+  "184": {
+    "en": "benjaminite",
+    "zh": "本杰明石"
+  },
+  "185": {
+    "en": "benstonite",
+    "zh": "本斯顿石"
+  },
+  "186": {
+    "en": "berborite",
+    "zh": "伯硼石"
+  },
+  "187": {
+    "en": "berillionite",
+    "zh": "伯里利石"
+  },
+  "188": {
+    "en": "berriit",
+    "zh": "伯里石"
+  },
+  "189": {
+    "en": "berthierite",
+    "zh": "辉铁锑矿"
+  },
+  "190": {
+    "en": "bertrandite",
+    "zh": "硅铍石"
+  },
+  "191": {
+    "en": "beryl",
+    "zh": "绿柱石"
+  },
+  "192": {
+    "en": "beryl lithium",
+    "zh": "锂绿柱石"
+  },
+  "193": {
+    "en": "beryl microcline. greisen",
+    "zh": "绿柱石微斜长石云英岩"
+  },
+  "194": {
+    "en": "beryl sodium",
+    "zh": "钠绿柱石"
+  },
+  "195": {
+    "en": "beryllite",
+    "zh": "水硅铍石"
+  },
+  "196": {
+    "en": "berzelite",
+    "zh": "硅钙石"
+  },
+  "197": {
+    "en": "beta-lomonosovitis",
+    "zh": "β-罗蒙诺索夫石"
+  },
+  "198": {
+    "en": "betafit",
+    "zh": "贝塔石"
+  },
+  "199": {
+    "en": "betehtinite",
+    "zh": "贝特赫廷石"
+  },
+  "200": {
+    "en": "betpakdalit-caca",
+    "zh": "贝特帕克达石-CaCa"
+  },
+  "201": {
+    "en": "bikitait",
+    "zh": "比基塔石"
+  },
+  "202": {
+    "en": "bindgamet",
+    "zh": "宾德加梅特"
+  },
+  "203": {
+    "en": "biotite",
+    "zh": "黑云母"
+  },
+  "204": {
+    "en": "biotite-garnet gneiss",
+    "zh": "黑云母-石榴石片麻岩"
+  },
+  "205": {
+    "en": "bischofite",
+    "zh": "水氯镁石"
+  },
+  "206": {
+    "en": "bismoclitus",
+    "zh": "氯氧铋矿"
+  },
+  "207": {
+    "en": "bismutaurite",
+    "zh": "金铋矿"
+  },
+  "208": {
+    "en": "bismuth",
+    "zh": "铋"
+  },
+  "209": {
+    "en": "bismuth is native.",
+    "zh": "自然铋"
+  },
+  "210": {
+    "en": "bismuth native",
+    "zh": "自然铋"
+  },
+  "211": {
+    "en": "bismuth ocher",
+    "zh": "铋赭石"
+  },
+  "212": {
+    "en": "bismuth tantalite",
+    "zh": "铋钽矿"
+  },
+  "213": {
+    "en": "bismuthinite",
+    "zh": "辉铋矿"
+  },
+  "214": {
+    "en": "bismuthotantalite",
+    "zh": "铋钽矿"
+  },
+  "215": {
+    "en": "blockit",
+    "zh": "布洛克石"
+  },
+  "216": {
+    "en": "blue quartz",
+    "zh": "蓝石英"
+  },
+  "217": {
+    "en": "boehmit",
+    "zh": "勃姆石"
+  },
+  "218": {
+    "en": "bokit",
+    "zh": "博基石"
+  },
+  "219": {
+    "en": "bonazciitis",
+    "zh": "博纳兹石"
+  },
+  "220": {
+    "en": "bonchevit",
+    "zh": "邦切夫石"
+  },
+  "221": {
+    "en": "boracite",
+    "zh": "方硼石"
+  },
+  "222": {
+    "en": "bornemanite",
+    "zh": "博内曼石"
+  },
+  "223": {
+    "en": "bornite",
+    "zh": "斑铜矿"
+  },
+  "224": {
+    "en": "borodaevite",
+    "zh": "博罗达耶夫石"
+  },
+  "225": {
+    "en": "boromuskovite",
+    "zh": "硼莫斯科石"
+  },
+  "226": {
+    "en": "bosphorite",
+    "zh": "博斯福石"
+  },
+  "227": {
+    "en": "bothriolite",
+    "zh": "博斯里奥石"
+  },
+  "228": {
+    "en": "bottinoite",
+    "zh": "博蒂诺石"
+  },
+  "229": {
+    "en": "boulangerite",
+    "zh": "车轮矿"
+  },
+  "230": {
+    "en": "bournonite",
+    "zh": "脆硫锑铅矿"
+  },
+  "231": {
+    "en": "boushkait",
+    "zh": "博什卡石"
+  },
+  "232": {
+    "en": "bowit",
+    "zh": "鲍伊石"
+  },
+  "233": {
+    "en": "brakebushite",
+    "zh": "布雷克布什石"
+  },
+  "234": {
+    "en": "brammalite",
+    "zh": "布拉马石"
+  },
+  "235": {
+    "en": "brandholcite",
+    "zh": "布兰德霍尔石"
+  },
+  "236": {
+    "en": "brannerite",
+    "zh": "钛铀矿"
+  },
+  "237": {
+    "en": "bravoite",
+    "zh": "方硫铁镍矿"
+  },
+  "238": {
+    "en": "breccias",
+    "zh": "角砾岩"
+  },
+  "239": {
+    "en": "bredigite",
+    "zh": "布列迪格石"
+  },
+  "240": {
+    "en": "breed",
+    "zh": "育种石"
+  },
+  "241": {
+    "en": "breithauptite",
+    "zh": "红锑镍矿"
+  },
+  "242": {
+    "en": "brewsterite",
+    "zh": "锶沸石"
+  },
+  "243": {
+    "en": "briartite",
+    "zh": "布里亚特石"
+  },
+  "244": {
+    "en": "britholite",
+    "zh": "磷硅铈矿"
+  },
+  "245": {
+    "en": "brizzyit",
+    "zh": "布里兹石"
+  },
+  "246": {
+    "en": "brochantite",
+    "zh": "水胆矾"
+  },
+  "247": {
+    "en": "bromargyrite",
+    "zh": "溴银矿"
+  },
+  "248": {
+    "en": "bromellite",
+    "zh": "铍石"
+  },
+  "249": {
+    "en": "bronzite",
+    "zh": "古铜辉石"
+  },
+  "250": {
+    "en": "brookite",
+    "zh": "板钛矿"
+  },
+  "251": {
+    "en": "brown iron ore",
+    "zh": "褐铁矿"
+  },
+  "252": {
+    "en": "brown spar",
+    "zh": "褐 spar"
+  },
+  "253": {
+    "en": "brownite",
+    "zh": "布朗石"
+  },
+  "254": {
+    "en": "brucite",
+    "zh": "水镁石"
+  },
+  "255": {
+    "en": "burbankite",
+    "zh": "伯班克石"
+  },
+  "256": {
+    "en": "burckhardtit",
+    "zh": "布尔克哈特石"
+  },
+  "257": {
+    "en": "burgerite",
+    "zh": "伯格石"
+  },
+  "258": {
+    "en": "burnesite",
+    "zh": "伯恩斯石"
+  },
+  "259": {
+    "en": "bustamit",
+    "zh": "硅灰石"
+  },
+  "260": {
+    "en": "bytovnit",
+    "zh": "贝托夫石"
+  },
+  "261": {
+    "en": "ca-fe-tourmaline",
+    "zh": "钙铁电气石"
+  },
+  "262": {
+    "en": "ca-rhodochrosite",
+    "zh": "钙菱锰矿"
+  },
+  "263": {
+    "en": "ca-seidoserite",
+    "zh": "钙硒铜矿"
+  },
+  "264": {
+    "en": "ca-seidoserite after catapleite",
+    "zh": "钙硒铜矿变种"
+  },
+  "265": {
+    "en": "cacholong",
+    "zh": "卡丘龙玉"
+  },
+  "266": {
+    "en": "cadmoselite",
+    "zh": "镉硒矿"
+  },
+  "267": {
+    "en": "cadvaladerite",
+    "zh": "卡德瓦拉德石"
+  },
+  "268": {
+    "en": "caesarolite",
+    "zh": "凯撒石"
+  },
+  "269": {
+    "en": "caesstibtantite",
+    "zh": "铯锑钽矿"
+  },
+  "270": {
+    "en": "cafetite",
+    "zh": "咖啡石"
+  },
+  "271": {
+    "en": "cainite",
+    "zh": "该隐石"
+  },
+  "272": {
+    "en": "calamine",
+    "zh": "异极矿"
+  },
+  "273": {
+    "en": "calcio-olivine",
+    "zh": "钙橄榄石"
+  },
+  "274": {
+    "en": "calciomurmanite",
+    "zh": "钙穆尔曼石"
+  },
+  "275": {
+    "en": "calciotantite",
+    "zh": "钙钽矿"
+  },
+  "276": {
+    "en": "calcite",
+    "zh": "方解石"
+  },
+  "277": {
+    "en": "calcite (glendonite)",
+    "zh": "方解石（菱沸石）"
+  },
+  "278": {
+    "en": "calcite garnet skarn",
+    "zh": "方解石石榴石矽卡岩"
+  },
+  "279": {
+    "en": "calcite, pyrite",
+    "zh": "方解石, 黄铁矿"
+  },
+  "280": {
+    "en": "caledonite",
+    "zh": "钙铅矿"
+  },
+  "281": {
+    "en": "caliberite",
+    "zh": "卡利伯石"
+  },
+  "282": {
+    "en": "calomel",
+    "zh": "甘汞"
+  },
+  "283": {
+    "en": "cameo zodiac sign \"pisces\"",
+    "zh": "浮雕 zodiac 符号“双鱼座”"
+  },
+  "284": {
+    "en": "cameo zodiac sign \"sagittarius\"",
+    "zh": "浮雕 zodiac 符号“射手座”"
+  },
+  "285": {
+    "en": "campo del cielo meteorite",
+    "zh": "坎波德尔塞洛陨石"
+  },
+  "286": {
+    "en": "cancrinit",
+    "zh": "钙霞石"
+  },
+  "287": {
+    "en": "cancrinit artificial",
+    "zh": "人造钙霞石"
+  },
+  "288": {
+    "en": "cane sugar",
+    "zh": "蔗糖"
+  },
+  "289": {
+    "en": "cannanit",
+    "zh": "坎南石"
+  },
+  "290": {
+    "en": "cannonite",
+    "zh": "坎农石"
+  },
+  "291": {
+    "en": "canonite",
+    "zh": "卡农石"
+  },
+  "292": {
+    "en": "canyon diablo meteorite (iron alpha)",
+    "zh": "峡谷恶魔陨石（α铁）"
+  },
+  "293": {
+    "en": "carbocer",
+    "zh": "碳铈矿"
+  },
+  "294": {
+    "en": "carbonaceous chondrite allende",
+    "zh": "碳质球粒陨石阿连德"
+  },
+  "295": {
+    "en": "carbonaceous chondrite nwa 11904",
+    "zh": "碳质球粒陨石 NWA 11904"
+  },
+  "296": {
+    "en": "carbonaceous chondrite nwa 12590",
+    "zh": "碳质球粒陨石 NWA 12590"
+  },
+  "297": {
+    "en": "carbonate breccia",
+    "zh": "碳酸盐角砾岩"
+  },
+  "298": {
+    "en": "carbonate breccia with antimonite",
+    "zh": "含辉锑矿碳酸盐角砾岩"
+  },
+  "299": {
+    "en": "carbonatite",
+    "zh": "碳酸岩"
+  },
+  "300": {
+    "en": "carborundum",
+    "zh": "碳化硅"
+  },
+  "301": {
+    "en": "carburan",
+    "zh": "碳铀矿"
+  },
+  "302": {
+    "en": "carlosturanite",
+    "zh": "卡洛斯图兰石"
+  },
+  "303": {
+    "en": "carnallite",
+    "zh": "光卤石"
+  },
+  "304": {
+    "en": "carnelian",
+    "zh": "红玉髓"
+  },
+  "305": {
+    "en": "carnelian (partly chalcedony)",
+    "zh": "红玉髓（部分玉髓）"
+  },
+  "306": {
+    "en": "carnelian onyx",
+    "zh": "红玉髓缟玛瑙"
+  },
+  "307": {
+    "en": "carneolite",
+    "zh": "肉色石"
+  },
+  "308": {
+    "en": "cascasite",
+    "zh": "卡斯卡石"
+  },
+  "309": {
+    "en": "cassit",
+    "zh": "锡石"
+  },
+  "310": {
+    "en": "cassiterite",
+    "zh": "锡石"
+  },
+  "311": {
+    "en": "cat eye",
+    "zh": "猫眼石"
+  },
+  "312": {
+    "en": "cat gold",
+    "zh": "猫金"
+  },
+  "313": {
+    "en": "catapleite",
+    "zh": "钠锆石"
+  },
+  "314": {
+    "en": "caulsite",
+    "zh": "考尔石"
+  },
+  "315": {
+    "en": "celadonite",
+    "zh": "绿鳞石"
+  },
+  "316": {
+    "en": "celestine",
+    "zh": "天青石"
+  },
+  "317": {
+    "en": "cellular quartz",
+    "zh": "细胞状石英"
+  },
+  "318": {
+    "en": "cerite",
+    "zh": "铈硅石"
+  },
+  "319": {
+    "en": "cerizin",
+    "zh": "铈rizin"
+  },
+  "320": {
+    "en": "cerotungstit",
+    "zh": "铈钨矿"
+  },
+  "321": {
+    "en": "cerussite",
+    "zh": "白铅矿"
+  },
+  "322": {
+    "en": "cetinite",
+    "zh": "塞蒂尼石"
+  },
+  "323": {
+    "en": "ceylonite",
+    "zh": "锡兰石"
+  },
+  "324": {
+    "en": "chalcedonolite",
+    "zh": "玉髓石"
+  },
+  "325": {
+    "en": "chalcedony",
+    "zh": "玉髓"
+  },
+  "326": {
+    "en": "chalcedony - transferred to the pdk collection #8268",
+    "zh": "玉髓 - 转移到 PDK 收藏 #8268"
+  },
+  "327": {
+    "en": "chalcedony \"sagenite\"",
+    "zh": "玉髓“毛发状”"
+  },
+  "328": {
+    "en": "chalcedony (flint boulder",
+    "zh": "玉髓（燧石巨砾）"
+  },
+  "329": {
+    "en": "chalcedony by thomsonite",
+    "zh": "玉髓变种"
+  },
+  "330": {
+    "en": "chalcedony on wood",
+    "zh": "木化石玉髓"
+  },
+  "331": {
+    "en": "chalcedony pink",
+    "zh": "粉红玉髓"
+  },
+  "332": {
+    "en": "chalcedony replaces cinalsi",
+    "zh": "玉髓替代 cinalsi"
+  },
+  "333": {
+    "en": "chalcedony smoky",
+    "zh": "烟熏玉髓"
+  },
+  "334": {
+    "en": "chalcedony with dendrite",
+    "zh": "含树枝状玉髓"
+  },
+  "335": {
+    "en": "chalcedony with dendrites",
+    "zh": "含树枝状玉髓"
+  },
+  "336": {
+    "en": "chalcophanite",
+    "zh": "黑锌锰矿"
+  },
+  "337": {
+    "en": "chalcophyllite",
+    "zh": "云母铜矿"
+  },
+  "338": {
+    "en": "chalcopyrite",
+    "zh": "黄铜矿"
+  },
+  "339": {
+    "en": "chalcopyrite, krupkaite",
+    "zh": "黄铜矿, 克鲁普卡石"
+  },
+  "340": {
+    "en": "chalcostibit",
+    "zh": "铜锑矿"
+  },
+  "341": {
+    "en": "chalcotallite",
+    "zh": "铜钽矿"
+  },
+  "342": {
+    "en": "chalcotrichite",
+    "zh": "毛铜矿"
+  },
+  "343": {
+    "en": "chamosite",
+    "zh": "鲕绿泥石"
+  },
+  "344": {
+    "en": "charoite",
+    "zh": "查罗石"
+  },
+  "345": {
+    "en": "chegemit",
+    "zh": "切格米石"
+  },
+  "346": {
+    "en": "chekhit",
+    "zh": "切基特石"
+  },
+  "347": {
+    "en": "chekhovichit",
+    "zh": "切霍维奇石"
+  },
+  "348": {
+    "en": "cheleutitis",
+    "zh": "切勒乌石"
+  },
+  "349": {
+    "en": "cherniit",
+    "zh": "切尔尼石"
+  },
+  "350": {
+    "en": "chernykhit",
+    "zh": "切尔内赫石"
+  },
+  "351": {
+    "en": "chesnokovit",
+    "zh": "切斯诺科夫石"
+  },
+  "352": {
+    "en": "chevkinit",
+    "zh": "切夫金石"
+  },
+  "353": {
+    "en": "chiastolite",
+    "zh": "空晶石"
+  },
+  "354": {
+    "en": "chinge meteorite",
+    "zh": "钦格陨石"
+  },
+  "355": {
+    "en": "chinglusuit",
+    "zh": "钦格卢石"
+  },
+  "356": {
+    "en": "chiolite",
+    "zh": "冰晶石"
+  },
+  "357": {
+    "en": "chkalovit",
+    "zh": "奇卡洛夫石"
+  },
+  "358": {
+    "en": "chloantitis",
+    "zh": "绿泥石"
+  },
+  "359": {
+    "en": "chlorapatite",
+    "zh": "氯磷灰石"
+  },
+  "360": {
+    "en": "chlorargyrite",
+    "zh": "氯银矿"
+  },
+  "361": {
+    "en": "chlorellestadite",
+    "zh": "氯磷灰石"
+  },
+  "362": {
+    "en": "chlorhydroxyapatite",
+    "zh": "氯羟基磷灰石"
+  },
+  "363": {
+    "en": "chlorite shale",
+    "zh": "绿泥石板岩"
+  },
+  "364": {
+    "en": "chloritoid",
+    "zh": "硬绿泥石"
+  },
+  "365": {
+    "en": "chlormagalumite",
+    "zh": "氯镁铝石"
+  },
+  "366": {
+    "en": "chloromenit",
+    "zh": "氯锰矿"
+  },
+  "367": {
+    "en": "chlorospinel",
+    "zh": "绿尖晶石"
+  },
+  "368": {
+    "en": "chloroxyphyte",
+    "zh": "氯氧矿"
+  },
+  "369": {
+    "en": "chondrite aba panu (aba panu)",
+    "zh": "球粒陨石 阿巴帕努"
+  },
+  "370": {
+    "en": "chondrite aguas sarcas (aguas zarcas)",
+    "zh": "球粒陨石 阿瓜斯萨卡斯"
+  },
+  "371": {
+    "en": "chondrite aiquile (aiquile)",
+    "zh": "球粒陨石 艾基莱"
+  },
+  "372": {
+    "en": "chondrite calama 022 (calama 022)",
+    "zh": "球粒陨石 卡拉马 022"
+  },
+  "373": {
+    "en": "chondrite calama 032 (calama 032)",
+    "zh": "球粒陨石 卡拉马 032"
+  },
+  "374": {
+    "en": "chondrite calate 017 (calate 017)",
+    "zh": "球粒陨石 卡拉特 017"
+  },
+  "375": {
+    "en": "chondrite charabali",
+    "zh": "球粒陨石 查拉巴利"
+  },
+  "376": {
+    "en": "chondrite chelyabinsk",
+    "zh": "球粒陨石 车里雅宾斯克"
+  },
+  "377": {
+    "en": "chondrite chug chug 010 (chug chug 010)",
+    "zh": "球粒陨石 丘格丘格 010"
+  },
+  "378": {
+    "en": "chondrite chug chug 013 (chug chug 013)",
+    "zh": "球粒陨石 丘格丘格 013"
+  },
+  "379": {
+    "en": "chondrite chug chug 014 (chug chug 014)",
+    "zh": "球粒陨石 丘格丘格 014"
+  },
+  "380": {
+    "en": "chondrite chug chug 096 (chug chug 096)",
+    "zh": "球粒陨石 丘格丘格 096"
+  },
+  "381": {
+    "en": "chondrite chug-chug 044 (chug chug 044)",
+    "zh": "球粒陨石 丘格丘格 044"
+  },
+  "382": {
+    "en": "chondrite kharabali (kharabali)",
+    "zh": "球粒陨石 哈拉巴利"
+  },
+  "383": {
+    "en": "chondrite navoi (navoi)",
+    "zh": "球粒陨石 纳沃伊"
+  },
+  "384": {
+    "en": "chondrite ngare sero",
+    "zh": "球粒陨石 恩加雷塞罗"
+  },
+  "385": {
+    "en": "chondrite nwa 12578",
+    "zh": "球粒陨石 NWA 12578"
+  },
+  "386": {
+    "en": "chondrite sierra gorda 012 (sierra gorda 012)",
+    "zh": "球粒陨石 谢拉戈达 012"
+  },
+  "387": {
+    "en": "chondrite sierra gorda 022 (sierra gorda 022)",
+    "zh": "球粒陨石 谢拉戈达 022"
+  },
+  "388": {
+    "en": "chondrite sierra gorda 023 (sierra gorda 023)",
+    "zh": "球粒陨石 谢拉戈达 023"
+  },
+  "389": {
+    "en": "chondrite yaratkulov",
+    "zh": "球粒陨石 亚拉特库洛夫"
+  },
+  "390": {
+    "en": "chondrodite",
+    "zh": "粒硅镁石"
+  },
+  "391": {
+    "en": "chrisselite",
+    "zh": "克里塞尔石"
+  },
+  "392": {
+    "en": "chromactinolite",
+    "zh": "铬阳起石"
+  },
+  "393": {
+    "en": "chromatitis",
+    "zh": "铬钛矿"
+  },
+  "394": {
+    "en": "chrome celadonite",
+    "zh": "铬绿鳞石"
+  },
+  "395": {
+    "en": "chrome diopside",
+    "zh": "铬透辉石"
+  },
+  "396": {
+    "en": "chrome ocher",
+    "zh": "铬赭石"
+  },
+  "397": {
+    "en": "chrome tourmaline",
+    "zh": "铬电气石"
+  },
+  "398": {
+    "en": "chrome tremolite",
+    "zh": "铬透闪石"
+  },
+  "399": {
+    "en": "chrome vesuvian",
+    "zh": "铬维苏威石"
+  },
+  "400": {
+    "en": "chromite",
+    "zh": "铬铁矿"
+  },
+  "401": {
+    "en": "chromite ocher",
+    "zh": "铬铁矿赭石"
+  },
+  "402": {
+    "en": "chromium actinolite",
+    "zh": "铬阳起石"
+  },
+  "403": {
+    "en": "chromphyllite",
+    "zh": "铬云母"
+  },
+  "404": {
+    "en": "chrysoberyl",
+    "zh": "金绿宝石"
+  },
+  "405": {
+    "en": "chrysocolla",
+    "zh": "硅孔雀石"
+  },
+  "406": {
+    "en": "chrysolite-olivine",
+    "zh": "贵橄榄石-橄榄石"
+  },
+  "407": {
+    "en": "chrysopal",
+    "zh": "金玉髓"
+  },
+  "408": {
+    "en": "chrysoprase",
+    "zh": "绿玉髓"
+  },
+  "409": {
+    "en": "chrysoprase micaceus",
+    "zh": "云母状绿玉髓"
+  },
+  "410": {
+    "en": "chrysotallite",
+    "zh": "金钽矿"
+  },
+  "411": {
+    "en": "chrysotile asbestos",
+    "zh": "温石棉"
+  },
+  "412": {
+    "en": "chug chug 003",
+    "zh": "丘格丘格 003"
+  },
+  "413": {
+    "en": "chukhrovit",
+    "zh": "丘赫罗夫石"
+  },
+  "414": {
+    "en": "chvilewit",
+    "zh": "奇夫列维特石"
+  },
+  "415": {
+    "en": "cinnabar",
+    "zh": "辰砂"
+  },
+  "416": {
+    "en": "citrine",
+    "zh": "黄水晶"
+  },
+  "417": {
+    "en": "claringbullit",
+    "zh": "克拉林布尔石"
+  },
+  "418": {
+    "en": "claudetite",
+    "zh": "白砷石"
+  },
+  "419": {
+    "en": "clausthalite",
+    "zh": "硒铅矿"
+  },
+  "420": {
+    "en": "clay concretion",
+    "zh": "粘土结核"
+  },
+  "421": {
+    "en": "clay-carbonate concr",
+    "zh": "粘土-碳酸盐结核"
+  },
+  "422": {
+    "en": "clevelandite",
+    "zh": "克利夫兰石"
+  },
+  "423": {
+    "en": "cliffordite",
+    "zh": "克利福德石"
+  },
+  "424": {
+    "en": "clinochalcomenite",
+    "zh": "斜铜硒矿"
+  },
+  "425": {
+    "en": "clinochlor",
+    "zh": "斜绿泥石"
+  },
+  "426": {
+    "en": "clinoenstatite",
+    "zh": "斜顽辉石"
+  },
+  "427": {
+    "en": "clinohumite",
+    "zh": "斜硅镁石"
+  },
+  "428": {
+    "en": "clinohypersten artificially",
+    "zh": "人造斜紫苏辉石"
+  },
+  "429": {
+    "en": "clinophosinaite",
+    "zh": "斜磷硅钙石"
+  },
+  "430": {
+    "en": "clinoptilolite",
+    "zh": "斜发沸石"
+  },
+  "431": {
+    "en": "clinopyrrhotin",
+    "zh": "斜磁黄铁矿"
+  },
+  "432": {
+    "en": "clintonite",
+    "zh": "克林顿石"
+  },
+  "433": {
+    "en": "co-lellingite",
+    "zh": "钴毒砂"
+  },
+  "434": {
+    "en": "cobaltin",
+    "zh": "钴华"
+  },
+  "435": {
+    "en": "cobaltite",
+    "zh": "辉钴矿"
+  },
+  "436": {
+    "en": "cobaltomenite",
+    "zh": "钴硒矿"
+  },
+  "437": {
+    "en": "cobellite",
+    "zh": "科贝尔石"
+  },
+  "438": {
+    "en": "coculitis",
+    "zh": "科库利石"
+  },
+  "439": {
+    "en": "coesite",
+    "zh": "柯石英"
+  },
+  "440": {
+    "en": "cohenite",
+    "zh": "陨碳铁"
+  },
+  "441": {
+    "en": "colemanite",
+    "zh": "硬硼钙石"
+  },
+  "442": {
+    "en": "columbite",
+    "zh": "铌铁矿"
+  },
+  "443": {
+    "en": "cone of concussion",
+    "zh": "冲击锥"
+  },
+  "444": {
+    "en": "cone of destruction",
+    "zh": "破坏锥"
+  },
+  "445": {
+    "en": "cones of concussion",
+    "zh": "冲击锥群"
+  },
+  "446": {
+    "en": "conglomerate",
+    "zh": "砾岩"
+  },
+  "447": {
+    "en": "contact granite",
+    "zh": "接触花岗岩"
+  },
+  "448": {
+    "en": "conychalcite",
+    "zh": "锥孔雀石"
+  },
+  "449": {
+    "en": "cooksit",
+    "zh": "库克石"
+  },
+  "450": {
+    "en": "copper",
+    "zh": "铜"
+  },
+  "451": {
+    "en": "copper (artificial product)",
+    "zh": "铜（人造）"
+  },
+  "452": {
+    "en": "copper black",
+    "zh": "黑铜矿"
+  },
+  "453": {
+    "en": "copper gold",
+    "zh": "铜金矿"
+  },
+  "454": {
+    "en": "copper green",
+    "zh": "铜绿"
+  },
+  "455": {
+    "en": "copper self-precipitating",
+    "zh": "自沉淀铜"
+  },
+  "456": {
+    "en": "coral",
+    "zh": "珊瑚"
+  },
+  "457": {
+    "en": "coral agate",
+    "zh": "珊瑚玛瑙"
+  },
+  "458": {
+    "en": "corals",
+    "zh": "珊瑚"
+  },
+  "459": {
+    "en": "corderoite",
+    "zh": "科德罗石"
+  },
+  "460": {
+    "en": "cordierite",
+    "zh": "堇青石"
+  },
+  "461": {
+    "en": "corinite",
+    "zh": "科林石"
+  },
+  "462": {
+    "en": "cornelian",
+    "zh": "红玉髓"
+  },
+  "463": {
+    "en": "cornetite",
+    "zh": "科内特石"
+  },
+  "464": {
+    "en": "coronaditis",
+    "zh": "科罗纳多石"
+  },
+  "465": {
+    "en": "corsite",
+    "zh": "科西特石"
+  },
+  "466": {
+    "en": "cortesoniite",
+    "zh": "科特索尼石"
+  },
+  "467": {
+    "en": "corundophyllite",
+    "zh": "刚玉云母"
+  },
+  "468": {
+    "en": "corundum",
+    "zh": "刚玉"
+  },
+  "469": {
+    "en": "corundum artificial",
+    "zh": "人造刚玉"
+  },
+  "470": {
+    "en": "corundum gabbroite",
+    "zh": "刚玉辉长岩"
+  },
+  "471": {
+    "en": "corundum-chloritoid rocks",
+    "zh": "刚玉-硬绿泥石岩"
+  },
+  "472": {
+    "en": "coulsonite",
+    "zh": "库尔森石"
+  },
+  "473": {
+    "en": "cozalite",
+    "zh": "科扎石"
+  },
+  "474": {
+    "en": "cr-diopside",
+    "zh": "铬透辉石"
+  },
+  "475": {
+    "en": "cr-tourmaline",
+    "zh": "铬电气石"
+  },
+  "476": {
+    "en": "crandallite",
+    "zh": "磷铝锶石"
+  },
+  "477": {
+    "en": "credit",
+    "zh": "信用石"
+  },
+  "478": {
+    "en": "crednerite",
+    "zh": "锰铜矿"
+  },
+  "479": {
+    "en": "creittonite",
+    "zh": "克雷顿石"
+  },
+  "480": {
+    "en": "cristobalite",
+    "zh": "方石英"
+  },
+  "481": {
+    "en": "crocidolite",
+    "zh": "青石棉"
+  },
+  "482": {
+    "en": "crocidolite (hawkeye",
+    "zh": "青石棉（鹰眼）"
+  },
+  "483": {
+    "en": "crocidolite (tiger's eye)",
+    "zh": "青石棉（虎眼石）"
+  },
+  "484": {
+    "en": "crocoite",
+    "zh": "铬铅矿"
+  },
+  "485": {
+    "en": "crossit",
+    "zh": "十字石"
+  },
+  "486": {
+    "en": "crychtonite",
+    "zh": "克里奇顿石"
+  },
+  "487": {
+    "en": "cryolite",
+    "zh": "冰晶石"
+  },
+  "488": {
+    "en": "cryolithionite",
+    "zh": "冰锂石"
+  },
+  "489": {
+    "en": "cryptoperthitis",
+    "zh": "隐纹长石"
+  },
+  "490": {
+    "en": "crystalline gold.",
+    "zh": "结晶金"
+  },
+  "491": {
+    "en": "cu-smithsonite",
+    "zh": "铜菱锌矿"
+  },
+  "492": {
+    "en": "cubanite",
+    "zh": "古巴石"
+  },
+  "493": {
+    "en": "cumbsit",
+    "zh": "库姆石"
+  },
+  "494": {
+    "en": "cummingtonite",
+    "zh": "镁铁闪石"
+  },
+  "495": {
+    "en": "cummingtonite-asbestos",
+    "zh": "镁铁闪石石棉"
+  },
+  "496": {
+    "en": "cuprite",
+    "zh": "赤铜矿"
+  },
+  "497": {
+    "en": "cuprobismuthite",
+    "zh": "铜铋矿"
+  },
+  "498": {
+    "en": "cuprodecloisite",
+    "zh": "铜德克洛伊石"
+  },
+  "499": {
+    "en": "cupromelanterite",
+    "zh": "铜水绿矾"
+  },
+  "500": {
+    "en": "cupromolybdite",
+    "zh": "铜钼矿"
+  },
+  "501": {
+    "en": "cuprorodsite",
+    "zh": "铜罗德石"
+  },
+  "502": {
+    "en": "cuprous pyrite",
+    "zh": "铜黄铁矿"
+  },
+  "503": {
+    "en": "cuspidin",
+    "zh": "卡斯皮丁石"
+  },
+  "504": {
+    "en": "cyanotrichite",
+    "zh": "绒铜矿"
+  },
+  "505": {
+    "en": "cyclovollastonite",
+    "zh": "环硅灰石"
+  },
+  "506": {
+    "en": "cylinder",
+    "zh": "圆柱石"
+  },
+  "507": {
+    "en": "cymatolite",
+    "zh": "赛马托石"
+  },
+  "508": {
+    "en": "dadsonite",
+    "zh": "达德森石"
+  },
+  "509": {
+    "en": "dalnegorskit",
+    "zh": "达利涅戈尔斯克石"
+  },
+  "510": {
+    "en": "danait",
+    "zh": "达纳石"
+  },
+  "511": {
+    "en": "danalit",
+    "zh": "达纳利石"
+  },
+  "512": {
+    "en": "danburite",
+    "zh": "赛黄晶"
+  },
+  "513": {
+    "en": "dannemorite",
+    "zh": "丹内莫石"
+  },
+  "514": {
+    "en": "datolite",
+    "zh": "硅硼钙石"
+  },
+  "515": {
+    "en": "davidite",
+    "zh": "戴维石"
+  },
+  "516": {
+    "en": "davin",
+    "zh": "达文石"
+  },
+  "517": {
+    "en": "decloisite",
+    "zh": "德克洛伊石"
+  },
+  "518": {
+    "en": "dedrite in chalcedony",
+    "zh": "玉髓中的树枝石"
+  },
+  "519": {
+    "en": "deepir",
+    "zh": "迪皮尔石"
+  },
+  "520": {
+    "en": "delafossite",
+    "zh": "黑铜矿"
+  },
+  "521": {
+    "en": "delryoite",
+    "zh": "德尔里奥石"
+  },
+  "522": {
+    "en": "dendrite in chalcedony",
+    "zh": "玉髓中的树枝状物"
+  },
+  "523": {
+    "en": "deningitis",
+    "zh": "德宁石"
+  },
+  "524": {
+    "en": "desmin",
+    "zh": "德斯明石"
+  },
+  "525": {
+    "en": "destinesitis",
+    "zh": "德斯蒂内石"
+  },
+  "526": {
+    "en": "devillin",
+    "zh": "德维林石"
+  },
+  "527": {
+    "en": "diabase",
+    "zh": "辉绿岩"
+  },
+  "528": {
+    "en": "diabolitis",
+    "zh": "迪亚博利石"
+  },
+  "529": {
+    "en": "diallag",
+    "zh": "异剥石"
+  },
+  "530": {
+    "en": "diallagon",
+    "zh": "异剥橄榄石"
+  },
+  "531": {
+    "en": "diamond",
+    "zh": "钻石"
+  },
+  "532": {
+    "en": "diaoyuidaoite",
+    "zh": "钓鱼岛石"
+  },
+  "533": {
+    "en": "diaphorite",
+    "zh": "迪亚福石"
+  },
+  "534": {
+    "en": "diaspodumene",
+    "zh": "迪亚斯波杜石"
+  },
+  "535": {
+    "en": "diaspora",
+    "zh": "水铝石"
+  },
+  "536": {
+    "en": "diktomsenite",
+    "zh": "迪克托姆森石"
+  },
+  "537": {
+    "en": "diopside",
+    "zh": "透辉石"
+  },
+  "538": {
+    "en": "diorite ball",
+    "zh": "闪长岩球"
+  },
+  "539": {
+    "en": "diphanit",
+    "zh": "迪法尼石"
+  },
+  "540": {
+    "en": "dirit",
+    "zh": "迪里特石"
+  },
+  "541": {
+    "en": "disluit",
+    "zh": "迪斯卢石"
+  },
+  "542": {
+    "en": "disten",
+    "zh": "蓝晶石"
+  },
+  "543": {
+    "en": "dokuchaevit",
+    "zh": "多库恰耶夫石"
+  },
+  "544": {
+    "en": "dolerite",
+    "zh": "粒玄岩"
+  },
+  "545": {
+    "en": "dolerophanite",
+    "zh": "褐铁矾"
+  },
+  "546": {
+    "en": "dolomite",
+    "zh": "白云石"
+  },
+  "547": {
+    "en": "domeikite",
+    "zh": "多梅克石"
+  },
+  "548": {
+    "en": "donbass",
+    "zh": "顿巴斯石"
+  },
+  "549": {
+    "en": "donpicorite",
+    "zh": "顿皮科石"
+  },
+  "550": {
+    "en": "dravite",
+    "zh": "镁电气石"
+  },
+  "551": {
+    "en": "drink",
+    "zh": "饮料石"
+  },
+  "552": {
+    "en": "dufrenoisite",
+    "zh": "杜弗雷诺石"
+  },
+  "553": {
+    "en": "dugganite",
+    "zh": "杜根石"
+  },
+  "554": {
+    "en": "dumortierite",
+    "zh": "蓝线石"
+  },
+  "555": {
+    "en": "duranusite",
+    "zh": "杜拉努石"
+  },
+  "556": {
+    "en": "eclogite coesite-kyanite (grospidite)",
+    "zh": "榴辉岩柯石英-蓝晶石（格罗斯皮石）"
+  },
+  "557": {
+    "en": "edenite",
+    "zh": " Eden石"
+  },
+  "558": {
+    "en": "eggletonite",
+    "zh": "埃格顿石"
+  },
+  "559": {
+    "en": "eglestonite",
+    "zh": "埃格尔斯顿石"
+  },
+  "560": {
+    "en": "ekandryusite",
+    "zh": "埃坎德留石"
+  },
+  "561": {
+    "en": "ekanit",
+    "zh": "埃卡石"
+  },
+  "562": {
+    "en": "ekdemit",
+    "zh": "埃克德米石"
+  },
+  "563": {
+    "en": "el hammani meteorite",
+    "zh": "埃尔哈马米陨石"
+  },
+  "564": {
+    "en": "el taco meteorite",
+    "zh": "埃尔塔科陨石"
+  },
+  "565": {
+    "en": "elatolith",
+    "zh": "埃拉托石"
+  },
+  "566": {
+    "en": "elbait",
+    "zh": "埃尔巴石"
+  },
+  "567": {
+    "en": "eleolith",
+    "zh": "埃利奥石"
+  },
+  "568": {
+    "en": "elite",
+    "zh": "精英石"
+  },
+  "569": {
+    "en": "elpidite",
+    "zh": "埃尔皮石"
+  },
+  "570": {
+    "en": "emerald",
+    "zh": "祖母绿"
+  },
+  "571": {
+    "en": "emmonsite",
+    "zh": "埃蒙斯石"
+  },
+  "572": {
+    "en": "emplektite",
+    "zh": "硫锑铜矿"
+  },
+  "573": {
+    "en": "empressit",
+    "zh": "女皇石"
+  },
+  "574": {
+    "en": "enargit",
+    "zh": "硫砷铜矿"
+  },
+  "575": {
+    "en": "enhydros",
+    "zh": "水胆玛瑙"
+  },
+  "576": {
+    "en": "enigmatite",
+    "zh": "谜石"
+  },
+  "577": {
+    "en": "enstatite",
+    "zh": "顽火辉石"
+  },
+  "578": {
+    "en": "eosphorite",
+    "zh": "磷铝锰石"
+  },
+  "579": {
+    "en": "epibulangerite",
+    "zh": "上皮兰杰石"
+  },
+  "580": {
+    "en": "epididymitis",
+    "zh": "附睾石"
+  },
+  "581": {
+    "en": "epidositis",
+    "zh": "绿帘石"
+  },
+  "582": {
+    "en": "epidote",
+    "zh": "绿帘石"
+  },
+  "583": {
+    "en": "epileucite",
+    "zh": "白榴石"
+  },
+  "584": {
+    "en": "epistolith",
+    "zh": "上皮石"
+  },
+  "585": {
+    "en": "erdit",
+    "zh": "埃尔迪石"
+  },
+  "586": {
+    "en": "ericssonite",
+    "zh": "埃里克森石"
+  },
+  "587": {
+    "en": "erinite",
+    "zh": "埃林石"
+  },
+  "588": {
+    "en": "erlikmanite",
+    "zh": "埃尔利克曼石"
+  },
+  "589": {
+    "en": "erythrin",
+    "zh": "钴华"
+  },
+  "590": {
+    "en": "eschinite-(y)",
+    "zh": "钇易解石"
+  },
+  "591": {
+    "en": "eschinitis",
+    "zh": "埃希尼石"
+  },
+  "592": {
+    "en": "esseneite",
+    "zh": "埃森石"
+  },
+  "593": {
+    "en": "etzlit",
+    "zh": "埃茨利石"
+  },
+  "594": {
+    "en": "euclase",
+    "zh": "蓝柱石"
+  },
+  "595": {
+    "en": "eucolyte",
+    "zh": "尤科石"
+  },
+  "596": {
+    "en": "eucryptite",
+    "zh": "锂霞石"
+  },
+  "597": {
+    "en": "eucryptite by spodumene",
+    "zh": "锂霞石由锂辉石变来"
+  },
+  "598": {
+    "en": "eudialyte",
+    "zh": "异性石"
+  },
+  "599": {
+    "en": "euxenite",
+    "zh": "黑稀金矿"
+  },
+  "600": {
+    "en": "evansit",
+    "zh": "埃文斯石"
+  },
+  "601": {
+    "en": "evenkit",
+    "zh": "埃文基石"
+  },
+  "602": {
+    "en": "evkayrit",
+    "zh": "埃夫卡伊石"
+  },
+  "603": {
+    "en": "evlit",
+    "zh": "埃夫利石"
+  },
+  "604": {
+    "en": "evlitin",
+    "zh": "埃夫利廷石"
+  },
+  "605": {
+    "en": "eye of the tiger",
+    "zh": "虎眼石"
+  },
+  "606": {
+    "en": "faded ore",
+    "zh": "褪色矿"
+  },
+  "607": {
+    "en": "falit",
+    "zh": "法利石"
+  },
+  "608": {
+    "en": "famatinitis",
+    "zh": "法马蒂尼石"
+  },
+  "609": {
+    "en": "fassaite",
+    "zh": "深绿辉石"
+  },
+  "610": {
+    "en": "fassaite titanium",
+    "zh": "钛深绿辉石"
+  },
+  "611": {
+    "en": "faustite",
+    "zh": "福斯特石"
+  },
+  "612": {
+    "en": "fayalite",
+    "zh": "铁橄榄石"
+  },
+  "613": {
+    "en": "fe spinel",
+    "zh": "铁尖晶石"
+  },
+  "614": {
+    "en": "fe-mn concretion",
+    "zh": "铁锰结核"
+  },
+  "615": {
+    "en": "fe-phlogopite",
+    "zh": "铁金云母"
+  },
+  "616": {
+    "en": "fe-platinum",
+    "zh": "铁铂矿"
+  },
+  "617": {
+    "en": "fe-sphalerite",
+    "zh": "铁闪锌矿"
+  },
+  "618": {
+    "en": "fe-tourmaline",
+    "zh": "铁电气石"
+  },
+  "619": {
+    "en": "fedorit",
+    "zh": "费多石"
+  },
+  "620": {
+    "en": "fedotovit",
+    "zh": "费多托夫石"
+  },
+  "621": {
+    "en": "feldspar-amphibole-pyroxene nodule",
+    "zh": "长石-角闪石-辉石结节"
+  },
+  "622": {
+    "en": "fengite",
+    "zh": "芬吉石"
+  },
+  "623": {
+    "en": "ferberite",
+    "zh": "钨铁矿"
+  },
+  "624": {
+    "en": "ferdowsiit",
+    "zh": "费尔多西石"
+  },
+  "625": {
+    "en": "fergusonite",
+    "zh": "褐钇铌矿"
+  },
+  "626": {
+    "en": "ferodsite",
+    "zh": "费罗德石"
+  },
+  "627": {
+    "en": "ferrichermakit",
+    "zh": "铁赫尔马石"
+  },
+  "628": {
+    "en": "ferrierite-k",
+    "zh": "钾费沸石"
+  },
+  "629": {
+    "en": "ferrihydrite",
+    "zh": "水铁矿"
+  },
+  "630": {
+    "en": "ferrikersutite",
+    "zh": "铁克苏石"
+  },
+  "631": {
+    "en": "ferrimagnesiohornblendite",
+    "zh": "铁镁角闪石"
+  },
+  "632": {
+    "en": "ferrimolybdite",
+    "zh": "铁钼华"
+  },
+  "633": {
+    "en": "ferrisaponite",
+    "zh": "铁皂石"
+  },
+  "634": {
+    "en": "ferritungstite",
+    "zh": "铁钨华"
+  },
+  "635": {
+    "en": "ferroactinolite",
+    "zh": "铁阳起石"
+  },
+  "636": {
+    "en": "ferroaugite",
+    "zh": "铁普通辉石"
+  },
+  "637": {
+    "en": "ferroaxinite",
+    "zh": "铁斧石"
+  },
+  "638": {
+    "en": "ferrocolumbite",
+    "zh": "铁铌铁矿"
+  },
+  "639": {
+    "en": "ferroedenite",
+    "zh": "铁 Eden石"
+  },
+  "640": {
+    "en": "ferroericssonite",
+    "zh": "铁埃里克森石"
+  },
+  "641": {
+    "en": "ferroholmquistite",
+    "zh": "铁霍姆奎斯特石"
+  },
+  "642": {
+    "en": "ferropargasite",
+    "zh": "铁 pargasite"
+  },
+  "643": {
+    "en": "ferrorhodsite",
+    "zh": "铁罗德石"
+  },
+  "644": {
+    "en": "ferrorichterite",
+    "zh": "铁 Richter石"
+  },
+  "645": {
+    "en": "ferroseladonite",
+    "zh": "铁硒铅矿"
+  },
+  "646": {
+    "en": "ferroselite",
+    "zh": "铁硒矿"
+  },
+  "647": {
+    "en": "ferrotapiolite",
+    "zh": "铁重铌铁矿"
+  },
+  "648": {
+    "en": "ferrous phosphate",
+    "zh": "磷酸亚铁"
+  },
+  "649": {
+    "en": "ferrous quartz",
+    "zh": "铁质石英"
+  },
+  "650": {
+    "en": "ferrovallerite",
+    "zh": "铁瓦勒石"
+  },
+  "651": {
+    "en": "fersmanite",
+    "zh": "费尔斯曼石"
+  },
+  "652": {
+    "en": "fervanit",
+    "zh": "费尔瓦尼石"
+  },
+  "653": {
+    "en": "fichtelite",
+    "zh": "菲希特尔石"
+  },
+  "654": {
+    "en": "fidlerite",
+    "zh": "菲德勒石"
+  },
+  "655": {
+    "en": "fire opal",
+    "zh": "火欧泊"
+  },
+  "656": {
+    "en": "flint",
+    "zh": "燧石"
+  },
+  "657": {
+    "en": "flint (bark)",
+    "zh": "燧石（树皮）"
+  },
+  "658": {
+    "en": "flint shale",
+    "zh": "燧石页岩"
+  },
+  "659": {
+    "en": "fluellite",
+    "zh": "氟铝石"
+  },
+  "660": {
+    "en": "fluocerite",
+    "zh": "氟铈矿"
+  },
+  "661": {
+    "en": "fluorapatite",
+    "zh": "氟磷灰石"
+  },
+  "662": {
+    "en": "fluorapophyllite",
+    "zh": "氟鱼眼石"
+  },
+  "663": {
+    "en": "fluorcalcioromeitis",
+    "zh": "氟钙罗马石"
+  },
+  "664": {
+    "en": "fluorite",
+    "zh": "萤石"
+  },
+  "665": {
+    "en": "fluorite artificial",
+    "zh": "人造萤石"
+  },
+  "666": {
+    "en": "fluorite synthetic",
+    "zh": "合成萤石"
+  },
+  "667": {
+    "en": "fluorosatrocaulcelite",
+    "zh": "氟萨特罗考尔石"
+  },
+  "668": {
+    "en": "fluorrichterite",
+    "zh": "氟 Richter石"
+  },
+  "669": {
+    "en": "fluorspar",
+    "zh": "萤石"
+  },
+  "670": {
+    "en": "formicaite",
+    "zh": "福米卡石"
+  },
+  "671": {
+    "en": "forsterite",
+    "zh": "镁橄榄石"
+  },
+  "672": {
+    "en": "foshagit",
+    "zh": "福沙吉石"
+  },
+  "673": {
+    "en": "fowlerite",
+    "zh": "福勒石"
+  },
+  "674": {
+    "en": "fragment of a volcanic bomb",
+    "zh": "火山弹碎片"
+  },
+  "675": {
+    "en": "fragment of merensky reef",
+    "zh": "梅伦斯基礁碎片"
+  },
+  "676": {
+    "en": "francolite",
+    "zh": "弗朗科尔石"
+  },
+  "677": {
+    "en": "franconite",
+    "zh": "弗朗孔石"
+  },
+  "678": {
+    "en": "frankeite",
+    "zh": "弗兰克石"
+  },
+  "679": {
+    "en": "franklinite",
+    "zh": "锌铁尖晶石"
+  },
+  "680": {
+    "en": "freibergite",
+    "zh": "银锑黝铜矿"
+  },
+  "681": {
+    "en": "freidenbergite",
+    "zh": "弗赖登贝格石"
+  },
+  "682": {
+    "en": "freislebenite",
+    "zh": "弗莱斯莱本石"
+  },
+  "683": {
+    "en": "freyeslebenite",
+    "zh": "弗赖斯莱本石"
+  },
+  "684": {
+    "en": "friedrichbeckeit",
+    "zh": "弗里德里希贝克石"
+  },
+  "685": {
+    "en": "frondelite",
+    "zh": "弗龙德尔石"
+  },
+  "686": {
+    "en": "fuchsite",
+    "zh": "铬云母"
+  },
+  "687": {
+    "en": "füleppit",
+    "zh": "富莱皮特石"
+  },
+  "688": {
+    "en": "fullepit",
+    "zh": "富勒皮特石"
+  },
+  "689": {
+    "en": "furdit",
+    "zh": "富尔迪石"
+  },
+  "690": {
+    "en": "gabbro olivine",
+    "zh": "橄榄辉长岩"
+  },
+  "691": {
+    "en": "gadolinite",
+    "zh": "硅铍钇矿"
+  },
+  "692": {
+    "en": "gagarinite",
+    "zh": "加加林石"
+  },
+  "693": {
+    "en": "gagarinite artificial",
+    "zh": "人造加加林石"
+  },
+  "694": {
+    "en": "gageite",
+    "zh": "加吉石"
+  },
+  "695": {
+    "en": "gahardoit",
+    "zh": "加哈多石"
+  },
+  "696": {
+    "en": "galaxite",
+    "zh": "锰尖晶石"
+  },
+  "697": {
+    "en": "galchait",
+    "zh": "加尔柴特石"
+  },
+  "698": {
+    "en": "galena",
+    "zh": "方铅矿"
+  },
+  "699": {
+    "en": "galenobismuthite",
+    "zh": "铅铋矿"
+  },
+  "700": {
+    "en": "gallium gadolinium garnet",
+    "zh": "镓钆榴石"
+  },
+  "701": {
+    "en": "galmey",
+    "zh": "加尔梅石"
+  },
+  "702": {
+    "en": "gamagarite",
+    "zh": "加马加石"
+  },
+  "703": {
+    "en": "ganit",
+    "zh": "加尼石"
+  },
+  "704": {
+    "en": "ganit (creittonite)",
+    "zh": "加尼石（克雷顿石）"
+  },
+  "705": {
+    "en": "ganophyllite",
+    "zh": "甘诺菲石"
+  },
+  "706": {
+    "en": "gao guenie meteorite",
+    "zh": "高格尼陨石"
+  },
+  "707": {
+    "en": "gardistonite",
+    "zh": "加迪斯顿石"
+  },
+  "708": {
+    "en": "garmit",
+    "zh": "加尔米石"
+  },
+  "709": {
+    "en": "garnet-analcime rock",
+    "zh": "石榴石-方沸石岩"
+  },
+  "710": {
+    "en": "gauerite",
+    "zh": "高尔石"
+  },
+  "711": {
+    "en": "gavnefiordite",
+    "zh": "加夫内菲奥石"
+  },
+  "712": {
+    "en": "gayuin",
+    "zh": "加尤因石"
+  },
+  "713": {
+    "en": "gazevit",
+    "zh": "加泽维石"
+  },
+  "714": {
+    "en": "gearxutite",
+    "zh": "吉亚尔胡石"
+  },
+  "715": {
+    "en": "gebel kamil meteorite",
+    "zh": "格贝尔卡米勒陨石"
+  },
+  "716": {
+    "en": "gedifan",
+    "zh": "格迪凡石"
+  },
+  "717": {
+    "en": "gedrit",
+    "zh": "格德里石"
+  },
+  "718": {
+    "en": "gedrite asbestos",
+    "zh": "直闪石石棉"
+  },
+  "719": {
+    "en": "geilandite",
+    "zh": "格兰石"
+  },
+  "720": {
+    "en": "geilussite",
+    "zh": "格卢斯石"
+  },
+  "721": {
+    "en": "gelvin",
+    "zh": "格尔文石"
+  },
+  "722": {
+    "en": "gentgelvin",
+    "zh": "根特格尔文石"
+  },
+  "723": {
+    "en": "geokronit",
+    "zh": "格奥克龙石"
+  },
+  "724": {
+    "en": "gerasimovskit",
+    "zh": "格拉西莫夫石"
+  },
+  "725": {
+    "en": "gerfisherite",
+    "zh": "格费舍石"
+  },
+  "726": {
+    "en": "gersdorfit",
+    "zh": "格氏硫镍矿"
+  },
+  "727": {
+    "en": "gerstliit",
+    "zh": "格斯特利石"
+  },
+  "728": {
+    "en": "getchellite",
+    "zh": "格切尔石"
+  },
+  "729": {
+    "en": "geyserite",
+    "zh": "硅华"
+  },
+  "730": {
+    "en": "gibbonite",
+    "zh": "吉本石"
+  },
+  "731": {
+    "en": "gibbsit",
+    "zh": "三水铝石"
+  },
+  "732": {
+    "en": "gigantolite",
+    "zh": "巨人石"
+  },
+  "733": {
+    "en": "gilbert + albite",
+    "zh": "吉尔伯特+钠长石"
+  },
+  "734": {
+    "en": "gilbertite",
+    "zh": "吉尔伯特石"
+  },
+  "735": {
+    "en": "giorthdalite",
+    "zh": "吉奥思达尔石"
+  },
+  "736": {
+    "en": "girodite",
+    "zh": "吉罗德石"
+  },
+  "737": {
+    "en": "glandular products",
+    "zh": "腺体产物"
+  },
+  "738": {
+    "en": "glass (artificial product)",
+    "zh": "玻璃（人造）"
+  },
+  "739": {
+    "en": "glaucochroitis",
+    "zh": "蓝铬石"
+  },
+  "740": {
+    "en": "glavkonit",
+    "zh": "格拉夫科尼石"
+  },
+  "741": {
+    "en": "glendonite",
+    "zh": "菱沸石"
+  },
+  "742": {
+    "en": "glendonite (calcite)",
+    "zh": "菱沸石（方解石）"
+  },
+  "743": {
+    "en": "glushinsky",
+    "zh": "格卢辛斯基石"
+  },
+  "744": {
+    "en": "gmelinite",
+    "zh": "钠沸石"
+  },
+  "745": {
+    "en": "gmelinite-na",
+    "zh": "钠沸石-Na"
+  },
+  "746": {
+    "en": "gneiss",
+    "zh": "片麻岩"
+  },
+  "747": {
+    "en": "goethite",
+    "zh": "针铁矿"
+  },
+  "748": {
+    "en": "gold",
+    "zh": "金"
+  },
+  "749": {
+    "en": "gold samor.",
+    "zh": "自然金"
+  },
+  "750": {
+    "en": "goldfieldite",
+    "zh": "金田石"
+  },
+  "751": {
+    "en": "goldmanite",
+    "zh": "戈德曼石"
+  },
+  "752": {
+    "en": "gorbunovit",
+    "zh": "戈尔布诺夫石"
+  },
+  "753": {
+    "en": "gornblendite",
+    "zh": "角闪石岩"
+  },
+  "754": {
+    "en": "graeserite",
+    "zh": "格雷瑟石"
+  },
+  "755": {
+    "en": "grammatite",
+    "zh": "文石"
+  },
+  "756": {
+    "en": "grandidierite",
+    "zh": " Grandidier石"
+  },
+  "757": {
+    "en": "granite aplite",
+    "zh": "花岗细晶岩"
+  },
+  "758": {
+    "en": "granite contact cavernous",
+    "zh": "花岗岩接触洞穴"
+  },
+  "759": {
+    "en": "granite gneiss",
+    "zh": "花岗片麻岩"
+  },
+  "760": {
+    "en": "granite leucocratic (head",
+    "zh": "花岗岩浅色（头）"
+  },
+  "761": {
+    "en": "granite writing",
+    "zh": "书写花岗岩"
+  },
+  "762": {
+    "en": "graphite",
+    "zh": "石墨"
+  },
+  "763": {
+    "en": "graphite slate",
+    "zh": "石墨板岩"
+  },
+  "764": {
+    "en": "greenish quartz",
+    "zh": "绿石英"
+  },
+  "765": {
+    "en": "greenockit",
+    "zh": "硫镉矿"
+  },
+  "766": {
+    "en": "greenockit artificial",
+    "zh": "人造硫镉矿"
+  },
+  "767": {
+    "en": "greigite",
+    "zh": "等轴硫铁矿"
+  },
+  "768": {
+    "en": "greytonite",
+    "zh": "格雷顿石"
+  },
+  "769": {
+    "en": "griffith",
+    "zh": "格里菲斯石"
+  },
+  "770": {
+    "en": "griffithite",
+    "zh": "格里菲斯石"
+  },
+  "771": {
+    "en": "grisite",
+    "zh": "格里西石"
+  },
+  "772": {
+    "en": "grossular",
+    "zh": "钙铝榴石"
+  },
+  "773": {
+    "en": "grumiplusit",
+    "zh": "格鲁米普卢石"
+  },
+  "774": {
+    "en": "grunerite",
+    "zh": "铁闪石"
+  },
+  "775": {
+    "en": "grunerite-asbestos",
+    "zh": "铁闪石石棉"
+  },
+  "776": {
+    "en": "gruzdevit",
+    "zh": "格鲁兹杰夫石"
+  },
+  "777": {
+    "en": "gudmundit",
+    "zh": "古德蒙石"
+  },
+  "778": {
+    "en": "guianaite",
+    "zh": "圭亚那石"
+  },
+  "779": {
+    "en": "gujba meteorite",
+    "zh": "古杰巴陨石"
+  },
+  "780": {
+    "en": "gumit",
+    "zh": "古米石"
+  },
+  "781": {
+    "en": "gummit",
+    "zh": "古米特石"
+  },
+  "782": {
+    "en": "gustavit",
+    "zh": "古斯塔维石"
+  },
+  "783": {
+    "en": "gutchinsonite",
+    "zh": "哈钦森石"
+  },
+  "784": {
+    "en": "gutsevichit",
+    "zh": "古采维奇石"
+  },
+  "785": {
+    "en": "gypsum",
+    "zh": "石膏"
+  },
+  "786": {
+    "en": "gypsum selenite",
+    "zh": "透石膏"
+  },
+  "787": {
+    "en": "gypsycoit",
+    "zh": "吉普赛石"
+  },
+  "788": {
+    "en": "gyrolite",
+    "zh": " gyrolite"
+  },
+  "789": {
+    "en": "gyurolit",
+    "zh": " gyurolit"
+  },
+  "790": {
+    "en": "haapalait",
+    "zh": "哈帕拉石"
+  },
+  "791": {
+    "en": "haleniusitis-(la)",
+    "zh": "哈莱纽斯石-(La)"
+  },
+  "792": {
+    "en": "halite",
+    "zh": "石盐"
+  },
+  "793": {
+    "en": "halloysite",
+    "zh": "埃洛石"
+  },
+  "794": {
+    "en": "halotrichitis",
+    "zh": "铁明矾"
+  },
+  "795": {
+    "en": "hammerite",
+    "zh": "哈默石"
+  },
+  "796": {
+    "en": "harmunite",
+    "zh": "哈穆尼石"
+  },
+  "797": {
+    "en": "hartzink",
+    "zh": "哈特锌石"
+  },
+  "798": {
+    "en": "hashemite",
+    "zh": "哈舍米石"
+  },
+  "799": {
+    "en": "hastingsite",
+    "zh": "绿钙闪石"
+  },
+  "800": {
+    "en": "hawkeye",
+    "zh": "鹰眼石"
+  },
+  "801": {
+    "en": "haxonite",
+    "zh": "哈克森石"
+  }
+}

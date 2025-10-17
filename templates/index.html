@@ -1,0 +1,174 @@
+
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MineralAI - 智能矿物识别</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(135deg, #0f1a2c, #1e3c72);
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+    .container {
+      width: 100%;
+      max-width: 800px;
+      background: rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: 40px;
+      text-align: center;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    }
+    h1 { font-size: 2.5em; margin-bottom: 10px; font-weight: 700; }
+    p { margin-bottom: 30px; opacity: 0.9; }
+    .upload-area {
+      border: 3px dashed #4fc3f7;
+      padding: 60px;
+      border-radius: 15px;
+      cursor: pointer;
+      transition: all 0.3s;
+      margin-bottom: 30px;
+      background: rgba(79, 195, 247, 0.1);
+    }
+    .upload-area:hover { border-color: #fff; transform: scale(1.02); }
+    .upload-area input { display: none; }
+    .btn { 
+      background: #4fc3f7; 
+      color: #0f1a2c; 
+      padding: 12px 30px; 
+      border: none; 
+      border-radius: 50px; 
+      font-size: 1em; 
+      cursor: pointer; 
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .result {
+      margin-top: 30px;
+      text-align: left;
+    }
+    .item {
+      padding: 15px;
+      background: rgba(255,255,255,0.1);
+      margin-bottom: 10px;
+      border-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+    }
+    .feedback-form {
+      margin-top: 30px;
+      padding: 20px;
+      background: rgba(255,0,0,0.1);
+      border-radius: 10px;
+    }
+    .feedback-form input, .feedback-form button {
+      padding: 10px;
+      margin: 5px;
+      border: none;
+      border-radius: 5px;
+    }
+    .feedback-form button {
+      background: #ff5722;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>MineralAI</h1>
+    <p>上传矿物图像，AI 精准识别</p>
+
+    <div class="upload-area" onclick="document.getElementById('file').click()">
+      <p>📷 点击或拖拽上传图像</p>
+      <input type="file" id="file" accept="image/*" onchange="handleFile(this)" />
+    </div>
+
+    <img id="preview" style="max-width: 100%; max-height: 300px; display: none; border-radius: 10px; margin: 20px 0;" />
+
+    <div class="result" id="result"></div>
+
+    <div class="feedback-form" id="feedbackForm" style="display: none;">
+      <h3>❌ 识别有误？请帮助我们改进</h3>
+      <input type="hidden" id="imagePath" />
+      <input type="number" id="predLabel" placeholder="预测ID" readonly />
+      <input type="text" id="trueLabel" placeholder="真实矿物名称（中文）" />
+      <button onclick="submitFeedback()">提交反馈</button>
+    </div>
+  </div>
+
+  <script>
+    function handleFile(input) {
+      const file = input.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        document.getElementById('preview').src = e.target.result;
+        document.getElementById('preview').style.display = 'block';
+        document.getElementById('result').innerHTML = '<p>🔍 识别中...</p>';
+
+        const formData = new FormData();
+        formData.append('file', file);
+
+        fetch('/predict', {
+          method: 'POST',
+          body: formData
+        })
+        .then(res => res.json())
+        .then(data => {
+          if (data.success) {
+            let html = '<h3>✅ 识别结果：</h3>';
+            data.results.forEach(r => {
+              html += `<div class="item">
+                <span><strong>${r.label_zh}</strong> (${r.label_en})</span>
+                <span>📊 ${r.confidence}%</span>
+              </div>`;
+            });
+            document.getElementById('result').innerHTML = html;
+
+            // 显示反馈表单
+            document.getElementById('feedbackForm').style.display = 'block';
+            document.getElementById('imagePath').value = data.image_url;
+            document.getElementById('predLabel').value = data.results[0].index;
+          } else {
+            document.getElementById('result').innerHTML = `<p style="color:red;">${data.error}</p>`;
+          }
+        });
+      };
+      reader.readAsDataURL(file);
+    }
+
+    function submitFeedback() {
+      const imagePath = document.getElementById('imagePath').value;
+      const predictedLabel = document.getElementById('predLabel').value;
+      const trueLabel = document.getElementById('trueLabel').value;
+
+      if (!trueLabel.trim()) {
+        alert('请输入真实矿物名称');
+        return;
+      }
+
+      fetch('/feedback', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ image_path: imagePath, predicted_label: predictedLabel, true_label: trueLabel })
+      })
+      .then(() => {
+        alert('感谢您的反馈！管理员审核后将用于模型优化。');
+        document.getElementById('feedbackForm').style.display = 'none';
+      })
+      .catch(err => alert('提交失败，请重试'));
+    }
+  </script>
+</body>
+</html>

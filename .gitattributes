@@ -1,0 +1,4 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+uploads/* filter=lfs diff=lfs merge=lfs -text
+checkpoints/*.pth filter=lfs diff=lfs merge=lfs -text
+

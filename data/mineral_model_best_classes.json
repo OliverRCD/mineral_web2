@@ -1,0 +1,806 @@
+{
+  "0": {
+    "en": "actinolite",
+    "zh": "阳起石"
+  },
+  "1": {
+    "en": "aegirine",
+    "zh": "霓石"
+  },
+  "2": {
+    "en": "agate",
+    "zh": "玛瑙"
+  },
+  "3": {
+    "en": "aikinit",
+    "zh": "针硫铋铅矿"
+  },
+  "4": {
+    "en": "albite",
+    "zh": "钠长石"
+  },
+  "5": {
+    "en": "almandine garnet",
+    "zh": "石榴子石（铁铝石榴子石）"
+  },
+  "6": {
+    "en": "amazonite",
+    "zh": "天河石"
+  },
+  "7": {
+    "en": "amber",
+    "zh": "琥珀"
+  },
+  "8": {
+    "en": "amethyst",
+    "zh": "石英（紫水晶）"
+  },
+  "9": {
+    "en": "amphibole (asbestos)",
+    "zh": "角闪石（石棉）"
+  },
+  "10": {
+    "en": "analcim",
+    "zh": "方沸石"
+  },
+  "11": {
+    "en": "andalusite",
+    "zh": "红柱石"
+  },
+  "12": {
+    "en": "anhydrite",
+    "zh": "硬石膏"
+  },
+  "13": {
+    "en": "anorthite",
+    "zh": "钙长石"
+  },
+  "14": {
+    "en": "antimonite",
+    "zh": "辉锑矿"
+  },
+  "15": {
+    "en": "apatite",
+    "zh": "磷灰石(磷块岩)"
+  },
+  "16": {
+    "en": "aragonite",
+    "zh": "文石(霰石)"
+  },
+  "17": {
+    "en": "arsenic",
+    "zh": "砷"
+  },
+  "18": {
+    "en": "arsenopyrite",
+    "zh": "毒砂"
+  },
+  "19": {
+    "en": "atakamit",
+    "zh": "阿塔卡马石"
+  },
+  "20": {
+    "en": "augite",
+    "zh": "普通辉石"
+  },
+  "21": {
+    "en": "axinitis",
+    "zh": "斧石"
+  },
+  "22": {
+    "en": "azurite",
+    "zh": "蓝铜矿"
+  },
+  "23": {
+    "en": "baikalit",
+    "zh": "贝加尔石"
+  },
+  "24": {
+    "en": "barite",
+    "zh": "重晶石"
+  },
+  "25": {
+    "en": "baryte",
+    "zh": "重晶石"
+  },
+  "26": {
+    "en": "barytocalcite",
+    "zh": "钡解石"
+  },
+  "27": {
+    "en": "bauxite",
+    "zh": "铝土矿"
+  },
+  "28": {
+    "en": "beryl",
+    "zh": "绿柱石"
+  },
+  "29": {
+    "en": "beta-quartz",
+    "zh": "β-石英"
+  },
+  "30": {
+    "en": "biotite",
+    "zh": "黑云母"
+  },
+  "31": {
+    "en": "bismuth",
+    "zh": "铋"
+  },
+  "32": {
+    "en": "bismuth native",
+    "zh": "自然铋"
+  },
+  "33": {
+    "en": "bismuthinite",
+    "zh": "辉铋矿"
+  },
+  "34": {
+    "en": "boracite",
+    "zh": "硼镁石"
+  },
+  "35": {
+    "en": "bornite",
+    "zh": "斑铜矿"
+  },
+  "36": {
+    "en": "boulangerite",
+    "zh": "硫锑铅矿"
+  },
+  "37": {
+    "en": "bournonite",
+    "zh": "脆硫锑铅矿"
+  },
+  "38": {
+    "en": "bronzite",
+    "zh": "古铜辉石"
+  },
+  "39": {
+    "en": "brownite",
+    "zh": "布朗石"
+  },
+  "40": {
+    "en": "brucite",
+    "zh": "水镁石(氢氧镁石)"
+  },
+  "41": {
+    "en": "calcite",
+    "zh": "方解石"
+  },
+  "42": {
+    "en": "calcite (limestone)",
+    "zh": "方解石（石灰岩）"
+  },
+  "43": {
+    "en": "calcite (marble)",
+    "zh": "方解石（大理岩）"
+  },
+  "44": {
+    "en": "cancrinit",
+    "zh": "钙霞石"
+  },
+  "45": {
+    "en": "carnelian",
+    "zh": "红玉髓"
+  },
+  "46": {
+    "en": "cassiterite",
+    "zh": "锡石"
+  },
+  "47": {
+    "en": "celadonite",
+    "zh": "绿高岭石"
+  },
+  "48": {
+    "en": "celestine",
+    "zh": "天青石"
+  },
+  "49": {
+    "en": "cerussite",
+    "zh": "白铅矿"
+  },
+  "50": {
+    "en": "chalcanthite",
+    "zh": "胆矾"
+  },
+  "51": {
+    "en": "chalcedony",
+    "zh": "石髓（玉髓）"
+  },
+  "52": {
+    "en": "chalcocite",
+    "zh": "辉铜矿"
+  },
+  "53": {
+    "en": "chalcopyrite",
+    "zh": "黄铜矿"
+  },
+  "54": {
+    "en": "chiastolite",
+    "zh": "空晶石"
+  },
+  "55": {
+    "en": "chloantitis",
+    "zh": "绿泥石"
+  },
+  "56": {
+    "en": "chrome diopside",
+    "zh": "铬透辉石"
+  },
+  "57": {
+    "en": "chromite",
+    "zh": "铬铁矿"
+  },
+  "58": {
+    "en": "chrysoberyl",
+    "zh": "金绿宝石"
+  },
+  "59": {
+    "en": "chrysocolla",
+    "zh": "硅孔雀石"
+  },
+  "60": {
+    "en": "chrysoprase",
+    "zh": "绿玉髓"
+  },
+  "61": {
+    "en": "cinnabar",
+    "zh": "辰砂"
+  },
+  "62": {
+    "en": "cobaltin",
+    "zh": "钴华"
+  },
+  "63": {
+    "en": "copper",
+    "zh": "铜"
+  },
+  "64": {
+    "en": "cordierite",
+    "zh": "堇青石"
+  },
+  "65": {
+    "en": "cornelian",
+    "zh": "红玉髓"
+  },
+  "66": {
+    "en": "corundum",
+    "zh": "刚玉"
+  },
+  "67": {
+    "en": "cozalite",
+    "zh": "科扎石"
+  },
+  "68": {
+    "en": "credit",
+    "zh": "信用石"
+  },
+  "69": {
+    "en": "cryolite",
+    "zh": "冰晶石"
+  },
+  "70": {
+    "en": "cuprite",
+    "zh": "赤铜矿"
+  },
+  "71": {
+    "en": "diopside",
+    "zh": "透辉石"
+  },
+  "72": {
+    "en": "dolomite",
+    "zh": "白云石"
+  },
+  "73": {
+    "en": "enstatite",
+    "zh": "顽火辉石"
+  },
+  "74": {
+    "en": "epidote",
+    "zh": "绿帘石"
+  },
+  "75": {
+    "en": "fassaite",
+    "zh": "深绿辉石"
+  },
+  "76": {
+    "en": "flint",
+    "zh": "燧石"
+  },
+  "77": {
+    "en": "fluorite",
+    "zh": "萤石"
+  },
+  "78": {
+    "en": "fluorspar",
+    "zh": "萤石"
+  },
+  "79": {
+    "en": "fushanite",
+    "zh": "符山石"
+  },
+  "80": {
+    "en": "galena",
+    "zh": "方铅矿"
+  },
+  "81": {
+    "en": "ganit",
+    "zh": "加尼石"
+  },
+  "82": {
+    "en": "garnet",
+    "zh": "石榴子石"
+  },
+  "83": {
+    "en": "gearxutite",
+    "zh": "吉亚尔胡石"
+  },
+  "84": {
+    "en": "glaucophane",
+    "zh": "蓝闪石"
+  },
+  "85": {
+    "en": "glendonite",
+    "zh": "菱沸石"
+  },
+  "86": {
+    "en": "goethite",
+    "zh": "针铁矿"
+  },
+  "87": {
+    "en": "gold",
+    "zh": "金"
+  },
+  "88": {
+    "en": "graphite",
+    "zh": "石墨"
+  },
+  "89": {
+    "en": "grossular garnet",
+    "zh": "石榴子石（钙铝石榴子石）"
+  },
+  "90": {
+    "en": "gypsum",
+    "zh": "石膏"
+  },
+  "91": {
+    "en": "hedenbergite",
+    "zh": "钙铁辉石"
+  },
+  "92": {
+    "en": "heliotrope",
+    "zh": "血石"
+  },
+  "93": {
+    "en": "hematite",
+    "zh": "赤铁矿"
+  },
+  "94": {
+    "en": "hematite (oolitic)",
+    "zh": "赤铁矿（豆状）"
+  },
+  "95": {
+    "en": "hematite (pisolitic)",
+    "zh": "鲕状赤铁矿"
+  },
+  "96": {
+    "en": "hematite (specularite)",
+    "zh": "赤铁矿（镜铁矿）"
+  },
+  "97": {
+    "en": "hemimorphite",
+    "zh": "异极矿"
+  },
+  "98": {
+    "en": "holmquistit",
+    "zh": "霍姆奎斯特石"
+  },
+  "99": {
+    "en": "hornblende",
+    "zh": "普通角闪石"
+  },
+  "100": {
+    "en": "hypersthene",
+    "zh": "紫苏辉石"
+  },
+  "101": {
+    "en": "ilmenite",
+    "zh": "钛铁矿"
+  },
+  "102": {
+    "en": "jade",
+    "zh": "玉石"
+  },
+  "103": {
+    "en": "jamsonite",
+    "zh": "詹森石"
+  },
+  "104": {
+    "en": "jasper",
+    "zh": "碧玉"
+  },
+  "105": {
+    "en": "kaolinite",
+    "zh": "高岭石"
+  },
+  "106": {
+    "en": "kovellin",
+    "zh": "铜蓝"
+  },
+  "107": {
+    "en": "kyanite",
+    "zh": "蓝晶石"
+  },
+  "108": {
+    "en": "labrador",
+    "zh": "拉长石"
+  },
+  "109": {
+    "en": "lapis lazuli",
+    "zh": "青金石"
+  },
+  "110": {
+    "en": "lellingite",
+    "zh": "毒砂"
+  },
+  "111": {
+    "en": "leucite",
+    "zh": "白榴石"
+  },
+  "112": {
+    "en": "limonite",
+    "zh": "褐铁矿"
+  },
+  "113": {
+    "en": "lithiophyllite",
+    "zh": "锂云母"
+  },
+  "114": {
+    "en": "ludwigit",
+    "zh": "硼镁铁矿"
+  },
+  "115": {
+    "en": "lyroconite",
+    "zh": "天青石"
+  },
+  "116": {
+    "en": "magnesioferrite",
+    "zh": "镁铁矿"
+  },
+  "117": {
+    "en": "magnesite",
+    "zh": "菱镁矿"
+  },
+  "118": {
+    "en": "magnetite",
+    "zh": "磁铁矿"
+  },
+  "119": {
+    "en": "malachite",
+    "zh": "孔雀石"
+  },
+  "120": {
+    "en": "marcasite",
+    "zh": "白铁矿"
+  },
+  "121": {
+    "en": "microcline",
+    "zh": "微斜长石"
+  },
+  "122": {
+    "en": "mokhovik",
+    "zh": "莫霍维克石"
+  },
+  "123": {
+    "en": "molybdenite",
+    "zh": "辉钼矿"
+  },
+  "124": {
+    "en": "montmorillonite",
+    "zh": "蒙脱石"
+  },
+  "125": {
+    "en": "montmorillonite (bentonite)",
+    "zh": "蒙脱石 （膨润土）"
+  },
+  "126": {
+    "en": "moonstone",
+    "zh": "月长石"
+  },
+  "127": {
+    "en": "muscovite",
+    "zh": "白云母"
+  },
+  "128": {
+    "en": "nagiagit",
+    "zh": "纳吉亚石"
+  },
+  "129": {
+    "en": "native copper",
+    "zh": "自然铜"
+  },
+  "130": {
+    "en": "native gold",
+    "zh": "自然金"
+  },
+  "131": {
+    "en": "native sulfur",
+    "zh": "自然硫"
+  },
+  "132": {
+    "en": "natrolite",
+    "zh": "钠沸石"
+  },
+  "133": {
+    "en": "nepheline",
+    "zh": "霞石"
+  },
+  "134": {
+    "en": "nephritis",
+    "zh": "nephritis"
+  },
+  "135": {
+    "en": "ni-containing pyrrhotite (br",
+    "zh": "含镍磁黄铁矿"
+  },
+  "136": {
+    "en": "nickelin",
+    "zh": "红砷镍矿"
+  },
+  "137": {
+    "en": "oligoclase",
+    "zh": "奥长石"
+  },
+  "138": {
+    "en": "olivine",
+    "zh": "橄榄石"
+  },
+  "139": {
+    "en": "opal",
+    "zh": "蛋白石"
+  },
+  "140": {
+    "en": "orlets",
+    "zh": "奥列茨石"
+  },
+  "141": {
+    "en": "orpiment",
+    "zh": "雌黄"
+  },
+  "142": {
+    "en": "orthoclase",
+    "zh": "正长石"
+  },
+  "143": {
+    "en": "pectolite",
+    "zh": "针钠钙石"
+  },
+  "144": {
+    "en": "perthite",
+    "zh": "条纹长石"
+  },
+  "145": {
+    "en": "phlogopite",
+    "zh": "金云母"
+  },
+  "146": {
+    "en": "plagioclase",
+    "zh": "斜长石"
+  },
+  "147": {
+    "en": "pleonast",
+    "zh": "铁尖晶石"
+  },
+  "148": {
+    "en": "pollucite",
+    "zh": "铯沸石"
+  },
+  "149": {
+    "en": "proustite",
+    "zh": "淡红银矿"
+  },
+  "150": {
+    "en": "psilomelan",
+    "zh": "硬锰矿"
+  },
+  "151": {
+    "en": "pyrargyrite",
+    "zh": "深红银矿"
+  },
+  "152": {
+    "en": "pyrite",
+    "zh": "黄铁矿"
+  },
+  "153": {
+    "en": "pyrolusite",
+    "zh": "硬猛矿"
+  },
+  "154": {
+    "en": "pyromorphite",
+    "zh": "磷氯铅矿"
+  },
+  "155": {
+    "en": "pyrope garnet",
+    "zh": "石榴子石（镁铝石榴子石）"
+  },
+  "156": {
+    "en": "pyrophyllite",
+    "zh": "叶腊石"
+  },
+  "157": {
+    "en": "quartz",
+    "zh": "石英"
+  },
+  "158": {
+    "en": "quartz (alpha-quartz)",
+    "zh": "石英（a-石英）"
+  },
+  "159": {
+    "en": "quartz (conchoidal fracture)",
+    "zh": "石英（贝壳状断口）"
+  },
+  "160": {
+    "en": "quartz (crystal)",
+    "zh": "石英（水晶）"
+  },
+  "161": {
+    "en": "realgar",
+    "zh": "雄黄"
+  },
+  "162": {
+    "en": "rhinestone",
+    "zh": "莱茵石"
+  },
+  "163": {
+    "en": "rhodonite",
+    "zh": "蔷薇辉石"
+  },
+  "164": {
+    "en": "rose quartz",
+    "zh": "石英（芙蓉石）"
+  },
+  "165": {
+    "en": "rutile",
+    "zh": "金红石"
+  },
+  "166": {
+    "en": "salit",
+    "zh": "萨利特石"
+  },
+  "167": {
+    "en": "scapolite",
+    "zh": "方柱石"
+  },
+  "168": {
+    "en": "scheelit",
+    "zh": "白钨矿"
+  },
+  "169": {
+    "en": "serpentine",
+    "zh": "蛇纹石"
+  },
+  "170": {
+    "en": "siderite",
+    "zh": "菱铁矿"
+  },
+  "171": {
+    "en": "sillimanite",
+    "zh": "硅线石(夕线石)"
+  },
+  "172": {
+    "en": "silver",
+    "zh": "银"
+  },
+  "173": {
+    "en": "silver native",
+    "zh": "自然银"
+  },
+  "174": {
+    "en": "skutterudit",
+    "zh": "方钴矿"
+  },
+  "175": {
+    "en": "smaltin",
+    "zh": "斯马尔廷石"
+  },
+  "176": {
+    "en": "smithsonite",
+    "zh": "菱锌矿"
+  },
+  "177": {
+    "en": "smoky quartz",
+    "zh": "烟晶"
+  },
+  "178": {
+    "en": "sphalerite",
+    "zh": "闪锌矿"
+  },
+  "179": {
+    "en": "spinel",
+    "zh": "尖晶石"
+  },
+  "180": {
+    "en": "spodumene",
+    "zh": "锂辉石"
+  },
+  "181": {
+    "en": "staurolite",
+    "zh": "十字石"
+  },
+  "182": {
+    "en": "strontianite",
+    "zh": "碳酸锶矿"
+  },
+  "183": {
+    "en": "sulfur",
+    "zh": "硫磺"
+  },
+  "184": {
+    "en": "sylvanite",
+    "zh": "针碲金银矿"
+  },
+  "185": {
+    "en": "talc",
+    "zh": "滑石"
+  },
+  "186": {
+    "en": "tetrahedrite",
+    "zh": "黝铜矿"
+  },
+  "187": {
+    "en": "tin stone",
+    "zh": "锡石"
+  },
+  "188": {
+    "en": "titanite",
+    "zh": "榍石"
+  },
+  "189": {
+    "en": "titanomagnetite",
+    "zh": "钛磁铁矿"
+  },
+  "190": {
+    "en": "topaz",
+    "zh": "黄玉(黄晶)"
+  },
+  "191": {
+    "en": "tourmaline",
+    "zh": "电气石"
+  },
+  "192": {
+    "en": "tremolite",
+    "zh": "透闪石"
+  },
+  "193": {
+    "en": "tridymite",
+    "zh": "鳞石英"
+  },
+  "194": {
+    "en": "turquoise",
+    "zh": "绿松石"
+  },
+  "195": {
+    "en": "vanadium-titanium magnetite",
+    "zh": "钒钛磁铁矿"
+  },
+  "196": {
+    "en": "vermiculite",
+    "zh": "蛭石"
+  },
+  "197": {
+    "en": "wolframite",
+    "zh": "黑钨矿"
+  },
+  "198": {
+    "en": "wollastonite",
+    "zh": "硅灰石"
+  },
+  "199": {
+    "en": "wulfenite",
+    "zh": "钼铅矿"
+  },
+  "200": {
+    "en": "zircon",
+    "zh": "锆石"
+  }
+}
